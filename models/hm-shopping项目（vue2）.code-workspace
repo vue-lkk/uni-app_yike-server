@@ -1,0 +1,46 @@
+{
+	"folders": [
+		{
+			"path": "E:/hm-shopping项目（vue2）"
+		},
+		{
+			"path": "E:/2、2023新版Vue2+3 入门到实战课程/Vue2+3入门到实战-配套资料/01-随堂代码&素材/day08-day10-智慧商城项目/hm-shopping"
+		},
+		{
+			"path": "E:/node(大事件后端接口)/大文件上传"
+		},
+		{
+			"path": "E:/React项目/zhipin-client"
+		},
+		{
+			"path": "E:/React项目/源码/code/项目/gzhipin-client_final"
+		},
+		{
+			"path": "E:/React项目/zhipin-server"
+		},
+		{
+			"path": "E:/React项目/记账本项目"
+		},
+		{
+			"path": "E:/node(大事件后端接口)/node之消息服务器"
+		},
+		{
+			"path": "E:/不会cv"
+		},
+		{
+			"path": "E:/node(大事件后端接口)"
+		},
+		{
+			"path": "../../../../我的资料库/Documents/Downloads/yike/yike/sockets"
+		},
+		{
+			"path": "E:/vite"
+		},
+		{
+			"path": ".."
+		}
+	],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "react_basic"
+  }
+}
